@@ -8,7 +8,7 @@ Current unzipped Matuic core files has 73 MB and over 10 000 files. It can take 
 
 ## How to use it
 
-1. Download this repo by clicking "Download ZIP" button on right bottom corner of [this](https://github.com/mautic/mautic-spi) page.
+1. Download this repo by clicking [HERE](https://github.com/mautic/mautic-spi/archive/master.zip) or the "Download ZIP" button on TOP corner of [this](https://github.com/mautic/mautic-spi) page.
 2. Unzip downloaded package somewhere on your computer.
 3. Upload unzipped start.php (via FTP problably) to the folder on your server where you want Mautic to be installed.
 4. Go to the URL where Mautic will run and add start.php behind the last slash. Example: `http://mautic.myweb.com/start.php`.
